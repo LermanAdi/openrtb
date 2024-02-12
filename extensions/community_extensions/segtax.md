@@ -365,12 +365,22 @@ Source : AdCOM [https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/maste
     </tr>
       <tr>
       <td>1002</td>
-      <td>Anonymised Custom Audience Reserved 2</td>
+      <td>Anonymised Custom Audience Reserved 2</td
     </tr>
     </tr>
       <tr>
       <td>1003</td>
       <td>Anonymised Custom Audience Reserved 3</td>
+    </tr>
+    </tr>
+      <tr>
+      <td>2000</td>
+      <td>Start.io Custom Audiences </td>
+    </tr>
+    </tr>
+      <tr>
+      <td>2001</td>
+      <td>Start.io Standard Audiences</td>
     </tr>
     <tr>
       <td>5000</td>
